@@ -4,11 +4,7 @@ This code is intended for educational purposes only. I am not responsible for an
 
 For additional support on setting this up with the full version,
 
-Account deleted
-
-please reach out to me on my new Telegram: https://t.me/lionelemmarkk
-
-Note reach out with your offer
+please reach out to me on my Telegram: https://t.me/emmanuelfides1
 
 Example live
-After test always terminate the session to avoid leaving acess for us.
+After test always terminate the session to avoid leaving access for us.
